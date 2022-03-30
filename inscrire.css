@@ -1,0 +1,12 @@
+
+
+body{
+    background-color: lightblue;
+}
+.row .g-3 .m-5{
+    background: white;
+}
+.container{
+    max-width: 80%;
+    margin-left: 20%;
+}
